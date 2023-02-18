@@ -1,9 +1,10 @@
 # Hey there 👋! I’m Suyash.
-
-- 👀 I’m interested in Data Science
+### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+- 👀 I’m interested in Natural Language Processing and Computer Vision
 - 🌱 I’m currently learning Data Science/Analytics @UChicago
 - 💞️ I’m looking to collaborate on projects related to Data Science
-- 📫 How to reach me suyashlakhani@uchicago.edu
+- 📫 How to reach me: suyashlakhani@uchicago.edu
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,9 +30,8 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashlakhani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyashlakhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashlakhani&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suyashlakhani)](https://git.io/streak-stats)
-[![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashlakhani)](https://github.com/anuraghazra/github-readme-stats)
 
 
