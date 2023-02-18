@@ -15,7 +15,7 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-suyashlakhani
+https://github-readme-streak-stats.herokuapp.com/suyashlakhani
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
