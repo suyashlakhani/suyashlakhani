@@ -17,4 +17,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suyashlakhani&theme=dracula)](https://git.io/streak-stats)
 
+[![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashlakhani)](https://github.com/anuraghazra/github-readme-stats)
 
