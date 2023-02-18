@@ -1,5 +1,5 @@
 # Hey there 👋! I’m Suyash.
-### Glad to see you here ! Visitor Count  ![Visitor Count](https://profile-counter.glitch.me/{suyashlakhani}/count.svg)
+### Glad to see you here !
 - 👀 I’m interested in Natural Language Processing and Computer Vision
 - 🌱 I’m currently learning Data Science/Analytics @UChicago
 - 💞️ I’m looking to collaborate on projects related to Data Science
