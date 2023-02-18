@@ -15,8 +15,10 @@
 
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashlakhani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suyashlakhani&theme=dracula)](https://git.io/streak-stats)
 
 [![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashlakhani)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashlakhani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
