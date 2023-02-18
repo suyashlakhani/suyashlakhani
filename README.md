@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @suyashlakhani
+# Hey there 👋! I’m Suyash.
+
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science/Analytics @UChicago
 - 💞️ I’m looking to collaborate on projects related to Data Science
