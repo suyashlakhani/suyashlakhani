@@ -29,8 +29,6 @@
 </div>
 
 ### :fire: My Stats :
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suyashlakhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suyashlakhani&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suyashlakhani)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suyashlakhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
