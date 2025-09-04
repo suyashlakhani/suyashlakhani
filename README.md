@@ -1,9 +1,9 @@
 # Hey there 👋! I’m Suyash.
 ### Glad to see you here !
-- 👀 I’m interested in Natural Language Processing and Computer Vision
-- 🌱 I’m currently learning Data Science/Analytics @UChicago
-- 💞️ I’m looking to collaborate on projects related to Data Science
-- 📫 How to reach me: suyashlakhani@uchicago.edu
+- 👀 I love building scalable ml/ai systems 
+- 🌱 I’m currently transforming the tolling industry with ml/ai integrations
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me: suyashlakhani.edu@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
