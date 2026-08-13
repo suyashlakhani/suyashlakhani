@@ -1,8 +1,8 @@
 # Hey there👋.
 ### Glad to see you here !
-- 👀 I love building scalable AI systems 
+- 👾 I love building scalable AI systems 
 - 🌱 I’m currently transforming the tolling industry with ml/ai integrations
-- 💞️ I’m looking to collaborate on AI projects
+- 🤝 I’m looking to collaborate on AI projects
 - 📫 How to reach me: suyashlakhani.edu@gmail.com
 
 
