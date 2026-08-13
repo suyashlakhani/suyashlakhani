@@ -1,6 +1,6 @@
 # Hey there👋.
 ### Glad to see you here !
-- 👀 I love building scalable ml/ai systems 
+- 👀 I love building scalable AI systems 
 - 🌱 I’m currently transforming the tolling industry with ml/ai integrations
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: suyashlakhani.edu@gmail.com
@@ -28,7 +28,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suyashlakhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
